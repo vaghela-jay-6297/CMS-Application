@@ -1,0 +1,4 @@
+/myenv
+/static
+/media
+.env
